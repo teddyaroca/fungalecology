@@ -1,0 +1,1072 @@
+- id: doi:10.1639/0007-2745-124.2.271 
+  title: Three species of <i>Trimmatothelopsis</i> (Acarosporaceae) from Europe and North America
+  tags:
+    - Lichen
+    - Systematics
+    - Taxonomy
+- id: doi:10.1099/mgen.0.000810
+  image: images/publication_images/mgen000810-f1.gif
+  title: Early branching arbuscular mycorrhizal fungus <i>Paraglomus occultum</i> carries a small and repeat-poor genome compared to relatives in the Glomeromycotina
+  tags:
+    - AMF
+    - zygomycete
+    - Glomeromycota
+- id: pmid:35440677
+  image: images/publication_images/GWSS_Crispr.png
+  title: Efficient CRISPR/Cas9-mediated genome modification of the glassy-winged sharpshooter <i>Homalodisca vitripennis</i> (Germar)
+  tags:
+    - GWSS
+    - sharpshooter
+    - insect
+    - CRISPR/Cas9
+- id: pmid:35377435
+  title: Avian-associated <i>Aspergillus fumigatus</i> displays broad phylogenetic distribution, no evidence for host specificity, and multiple genotypes within epizootic events
+  image: images/publication_images/Afum_avian_Fig2.png
+  tags:
+    - Aspergillus fumigatus
+    - Avian
+    - antifungal
+    - population genomics
+- id: pmid:35298630
+  image: images/publication_images/Coleine_FEMS_2022.png
+  tags:
+    - Extremophile
+    - Rock mycobiome
+    - Fungi
+- id: pmid:35246323
+  image: images/publication_images/Coleine2022.jpg
+  tags:
+    - Extremophile
+    - Fungi
+    - Review
+- id: pmid:35196462
+  title: Exploring Space via Astromycology A Report on the CIFAR Programs Earth 4D and Fungal Kingdom Inaugural Joint Meeting
+  image: images/publication_images/spacefungi.jpeg
+  tags:
+    - Meetings
+    - Reports
+    - Space Fungi
+    - extremophile
+    - Earth4D
+    - Fungal Kingdom
+    - CIFAR
+- id: pmid:35137016
+  image: images/publication_images/C_posa_genome.png
+  title: A chromosomal-level reference genome of the widely utilized <i>Coccidioides posadasii</i> laboratory strain "Silveira"
+  tags:
+    - Coccidioides
+    - Coccidioides posadasii
+    - genome
+    - PacBio
+    - Assembly
+    - Annotation
+- id: pmid:35076277
+  title: Decoding Transcription Regulatory Mechanisms Associated with <i>Coccidioides immitis</i> Phase Transition Using Total RNA
+  image: images/publication_images/msystems.01404-21-f001.gif
+  tags:
+    - Coccidioides
+    - development
+    - phase-transition
+    - mycelia
+    - spherule
+    - RNA-seq
+- id: pmid:35050006
+  title: Genomic Characterization of <i>Parengyodontium torokii</i> sp. nov., a Biofilm-Forming Fungus Isolated from Mars 2020 Assembly Facility
+  image: https://www.mdpi.com/jof/jof-08-00066/article_deploy/html/images/jof-08-00066-g001-550.jpg
+  tags:
+    - biofilm
+    - taxonomy
+    - Space Fungi
+    - Ascomycota
+- id: doi:10.1128/msphere.00922-21
+  image: images/publication_images/msphere.00922-21-f002.gif
+  tags:
+    - Aspergillus fumigatus
+    - experimental evolution
+- id: doi:10.1639/0007-2745-123.1.011
+  image: images/publication_images/Sarcogyne_alcesensis.jpg
+  tags:
+    - Lichen
+    - Acarospora
+    - Sarcogyne
+    - Taxonomy
+- id: doi:10.1111/1755-0998.13540
+  image: https://www.authorea.com/users/407720/articles/517958/master/file/figures/Fig6_OTU_tree/Fig6_OTU_tree.png
+  extra-links:
+  - type: preprint
+  - type: authorea
+    link: https://www.authorea.com/users/407720/articles/517958
+  tags:
+    - Zoopagomycota
+    - ITS
+    - molecular ecology
+    - systematics
+    - Early diverging fungi
+- id: doi:10.1371/journal.pone.0257823
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8480888/bin/pone.0257823.g003.jpg
+  tags:
+    - fungus olympics
+    - growth
+    - zygolife
+    - aspergillus
+- id: doi:10.3390/jof7090723
+  image: https://www.mdpi.com/jof/jof-07-00723/article_deploy/html/images/jof-07-00723-g001.png
+  tags:
+    - Hortaea
+    - experimental evolution
+    - salinity
+    - halotolerance
+    - population genomics
+- id: doi:10.1128/mBio.02153-21
+  image: https://journals.asm.org/cms/10.1128/mBio.02153-21/asset/610ab608-7d19-49a5-9a2d-cc63d1e6674d/assets/images/medium/mbio.02153-21-f001.gif
+  tags:
+    - Aspergillus fumigatus
+    - population genomics
+    - aspergillus
+    - cystic fibrosis
+- id: pmid:34568917
+  image: images/publication_images/GWSS_image1.jpg
+  tags:
+    - GWSS
+    - sharpshooter
+    - insect
+    - genome
+    - nanopore
+
+- id: pmid:34247231
+  tags:
+    - insect fungal interactions
+    - ascomycota
+    - genome
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8325562/bin/evab158f5.jpg
+
+- id: pmid:34165331
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Joshua_Tree_01.jpg/174px-Joshua_Tree_01.jpg
+  tags:
+    - amplicon
+    - ITS
+    - endoliths
+    - fungi
+    - Joshua Tree
+    - aridlands
+
+- id: doi:10.1128/MRA.00258-21
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8354539/bin/mra.00258-21-f001.jpg
+  tags:
+    - cyanobacteria
+    - metagenomics
+    - aridlands
+- id: pmid:34067070
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8150946/bin/jof-07-00366-g001.jpg
+  title: Transcriptional Analysis of <i>Coccidioides immitis</i> Mycelia and Spherules by RNA Sequencing
+  tags:
+    - coccidioides
+    - onygenales
+    - RNA-seq
+- id: pmid:34042486
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8201633/bin/mra.00295-21-f0001.jpg
+  tags:
+    - genome
+    - Phytophthora
+- id: pmid:33871031
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8496281/bin/jkab132f1.jpg
+  tags:
+    - coccidioides
+    - onygenales
+    - genomics
+    - mitogenome
+- id: pmid:33815472
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8012687/bin/fgene-12-638708-g001.jpg
+  tags:
+    - black yeast
+    - knufia
+- id: pmid:33809619
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8001563/bin/jof-07-00213-g002.jpg
+  tags:
+    - Antarctica
+    - endoliths
+    - amplicon
+    - fungi
+- id: pmid:33785623
+  title: Balancing Positive and Negative Selection - <i>In Vivo</i> Evolution of <i>Candida lusitaniae</i> MRR1
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8092287/bin/mBio.03328-20_f001.jpg
+  tags:
+    - Candida
+    - Clavispora lusitaniae
+    - drug resistance
+- id: pmid:33752605
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7986286/bin/12864_2021_7489_Fig2_HTML.jpg
+  tags:
+    - Datura
+    - plant genomics
+    - genome
+- id: pmid:33741058
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7980648/bin/40168_2021_1021_Fig1_HTML.jpg
+  tags:
+    - metagenomics
+    - Antarctica
+    - endoliths
+    - genome
+    - MAG
+- id: pmid:33686174
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7940399/bin/42003_2021_1799_Fig2_HTML.jpg
+  tags:
+    - Pneumocystis
+    - comparative genomics
+- id: pmid:33656416
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8190603/bin/mgen-7-0541-g002.jpg
+  tags:
+    - Apicomplexian
+    - RNA binding
+    - Evolution
+- id: pmid:33607033
+  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/4f6a7310-bc2d-4083-823f-f131655ab9cf/fx1.jpg
+  tags:
+    - fungi
+    - phylogenomics
+    - systematics
+    - evolution
+- id: pmid:33597172
+  image: https://journals.asm.org/cms/10.1128/mSphere.01250-20/asset/8ce39821-f1dd-4405-818a-a3df40aa308c/assets/images/medium/msphere.01250-20-f0002.gif
+  tags:
+    - Aspergillus fumigatus
+    - Cystic Fibrosis
+- id: pmid:33593969
+  title: A Heterogeneously Expressed Gene Family Modulates the Biofilm Architecture and Hypoxic Growth of <i>Aspergillus fumigatus</i>
+  image: https://journals.asm.org/cms/10.1128/mBio.03579-20/asset/c4ebb506-cce9-4749-9962-c5cc4083f0c6/assets/images/medium/mbio.03579-20-f0001.gif
+  tags:
+    - Aspergillus fumigatus
+    - biofilm
+    - RNA-seq
+- id: pmid:33592192
+  image: images/publication_images/geosiphon.jpg
+  tags:
+    - Geosiphon
+    - AMF
+    - zygomycete
+    - genome
+    - comparative genomics
+- id: pmid:33585864
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8022983/bin/jkaa008f1.jpg
+  tags:
+    - genome
+    - Pleurotus
+- id: pmid:33585863
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8022975/bin/jkaa007f3.jpg
+  tags:
+    - genome
+    - Pleurotus
+- id: pmid:33547391
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7865070/bin/41598_2021_82607_Fig1_HTML.jpg
+  tags:
+    - fungi
+    - phylogenomics
+    - zygomycete
+    - chytrid
+    - evolution
+    - metagenomics
+    - genome
+- id: pmid:33364917
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7751987/bin/nihms-1646997-f0001.jpg
+  tags:
+    - genome
+    - zygomycete
+    - Mortierellaceae
+    - phylogenomics
+- id: pmid:33355923
+  tags:
+    - Suillus
+    - basidomycota
+    - comparative genomics
+    - phylogenomics
+- id: pmid:33352712
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7767062/bin/life-10-00362-g001.jpg
+  tags:
+    - black yeast
+    - review
+- id: pmid:33232202
+  image: https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/umyc20/2021/umyc20.v113.i01/00275514.2020.1816761/20210526/images/medium/umyc_a_1816761_f0002_c.jpg
+  tags:
+    - endoliths
+    - review
+    - fungi
+    - rock
+- id: pmid:33200960
+  tags:
+    - phylogenomics
+    - Fusarium
+- id: pmid:33155518
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7717857/bin/TEMI_A_1847001_F0001_PB.jpg
+  title: A novel <i>Sporothrix brasiliensis</i> genomic variant in Midwestern Brazil evidence for an older and wider sporotrichosis epidemic
+  tags:
+    - Sporothrix
+    - genome
+    - comparative genomics
+- id: pmid:33138786
+  tags:
+    - Neurospora
+    - phenotype
+- id: pmid:33020276
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7584900/bin/pnas.2015736117fig01.jpg
+  tags:
+    - Rice
+    - transposon
+    - mPing
+- id: pmid:32938701
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7494836/bin/mSphere.00810-20-f0001.jpg
+  tags:
+    - Fusarium
+    - phylogeny
+    - taxonomy
+    - systematics
+- id: pmid:32902066
+  tags:
+    - soil microbiome
+    - ITS
+    - 16S
+    - amplicon
+    - environmental microbiology
+- id: pmid:32900807
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7482067/bin/mBio.02027-20-f0004.jpg
+  tags:
+    - mycovirus
+    - chytrid
+    - zygomycete
+    - virus
+- id: pmid:32883786
+  image: https://journals.asm.org/pb-assets/images/pub-nav/MRA-logo-1601672971873.png
+  tags:
+    - review
+    - MRA
+- id: pmid:32727924
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7466969/bin/3417f1.jpg
+  tags:
+    - phylogenomics
+    - Basidiobolus
+    - HGT
+    - fungi
+    - zygomycete
+- id: pmid:32660385
+  tags:
+    - review
+    - fungi
+    - phylogeny
+    - phylogenomics
+- id: pmid:32585947
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7356261/bin/microorganisms-08-00942-g001.jpg
+  tags:
+    - amplicon
+    - culture
+    - Antarctica
+    - endoliths
+- id: pmid:32573682
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7426032/bin/fiaa125fig1.jpg
+  tags:
+    - amplicon
+    - ITS
+    - 16S
+    - fungi
+    - aridlands
+    - biological crust
+- id: pmid:32555716
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7302443/bin/ppat.1008598.g001.jpg
+  tags:
+    - insect fungal interactions
+    - review
+    - zygomycete
+    - Entomophthomycotina
+- id: pmid:32412847
+  tags:
+    - Massospora
+    - zygomycete
+    - systematics
+    - Entomophthomycotina
+- id: pmid:32389308
+  tags:
+    - Friedmannomyces
+    - black yeast
+    - Antarctica
+    - genome
+- id: pmid:32371596
+  tags:
+    - review
+    - fungi
+    - disease
+    - wildlife disease
+- id: pmid:32241854
+  title: Draft Genome Sequence of the Yeast <i>Rhodotorula sp.</i> strain CCFEE 5036, Isolated from McMurdo Dry Valleys, Antarctica
+  tags:
+    - genome
+    - Rhodotorula
+    - Antarctica
+- id: pmid:32161129
+  tags:
+    - nematode trapping fungi
+    - genome
+    - population genomics
+- id: pmid:32139564
+  tags:
+    - metagenomics
+    - endoliths
+    - Antarctica
+- id: pmid:32041249
+  tags:
+    - Antarctica
+    - endoliths
+    - fungi
+    - amplicon
+- id: pmid:31900675
+  tags:
+    - Africa
+    - spore
+    - fungi
+- id: pmid:31871487
+  title: Diversity and function of fungi associated with the fungivorous millipede, <i>Brachycybe lecontii</i>
+  tags:
+    - millipede
+    - culture-based
+    - zygomycete
+- id: pmid:31768192
+  tags:
+    - Massospora
+    - zygomycete
+    - genome
+    - insect fungal interactions
+- id: pmid:31647694
+  tags:
+    - Fusarium
+    - plant pathology
+    - tool
+- id: pmid:31632357
+  title: Microfluidics and Metabolomics Reveal Symbiotic Bacterial-Fungal Interactions Between <i>Mortierella elongata</i> and <i>Burkholderia</i> Include Metabolite Exchange
+  tags:
+    - zygomycete
+    - tool
+    - bacteria fungi interactions
+- id: pmid:31548684
+  tags:
+    - Aspergillus fumigatus
+    - biofilm
+    - disease
+    - hypoxia
+- id: pmid:31518652
+  tags:
+    - Fusarium
+    - avocado
+    - plant pathology
+- id: pmid:31488541
+  title: Future-Proofing Your Microbiology Resource Announcements Genome Assembly for Reproducibility and Clarity
+  tags:
+    - review
+    - MRA
+- id: pmid:31455637
+  tags:
+    - HGT
+    - systematics
+    - AGF
+    - Neocallimastigomycota
+    - transcriptome
+- id: pmid:31416856
+  title: Improved Reference Genome Sequence of <i>Coccidioides immitis</i> Strain WA_211, Isolated in Washington State
+  tags:
+    - genome
+    - coccidioides
+- id: pmid:31393667
+  tags:
+    - Antarctica
+    - amplicon
+    - ITS
+    - 16S
+- id: pmid:31156574
+  tags:
+    - proteomics
+    - black yeast
+    - extremophile
+- id: pmid:31126947
+  tags:
+    - HGT
+    - Neocallimastigomycota
+    - AGF
+- id: pmid:31072892
+  title: Draft Genome Sequence of an Antarctic Isolate of the Black Yeast Fungus <i>Exophiala mesophila</i>
+  tags:
+    - Exophiala
+    - extremophile
+    - Antarctica
+- id: pmid:30987585
+  tags:
+    - tool
+    - genomics
+- id: pmid:30837337
+  tags:
+    - review
+    - marine fungi
+- id: pmid:30778188
+  tags:
+    - epigenetics
+    - fungi
+    - 5mC
+    - methylation
+- id: pmid:30733435
+  tags:
+    - transposon
+    - Rice
+    - mPing
+- id: pmid:30701257
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/6346206/bin/MRA.01619-18-f0001.jpg
+  tags:
+    - Verticllium
+    - genome
+- id: pmid:30697917
+  tags:
+    - systematics
+- id: pmid:30673440
+  tags:
+    - Fusarium kuroshium
+    - avocado
+    - AFC
+- id: pmid:30639767
+  tags:
+    - Zoopagales
+    - Zoopagomycota
+    - zygomycete
+    - phylogenomics
+    - systematics
+- id: pmid:30539259
+  tags:
+    - Aspergillus nidulans
+    - proteomics
+    - space fungi
+    - ISS
+- id: pmid:30485448
+  image: https://nph.onlinelibrary.wiley.com/cms/asset/b95731db-9f7b-456f-a5ae-f25bbbe96ec1/nph15613-fig-0001-m.png
+  tags:
+    - phylogenomics
+    - systematics
+    - zygomycete
+    - Endogone
+- id: pmid:30389707
+  tags:
+    - Candida
+    - Clavispora lusitaniae
+    - drug resistance
+- id: pmid:30293061
+  tags:
+    - insect
+    - RNA-seq
+    - venom
+- id: pmid:30246146
+  tags:
+    - Aspergillus niger
+    - population genomics
+    - ISS
+    - space fungi
+- id: pmid:30111619
+  tags:
+    - Entomophthomycotina
+    - protease
+    - Entomopthora muscae
+- id: pmid:30016947
+  tags:
+    - genome
+    - Thraustochytrid
+    - comparative genomics
+- id: pmid:30008702
+  tags:
+    - Antarctica
+    - ITS
+    - fungi
+    - endoliths
+- id: pmid:29865244
+  tags:
+    - Antarctica
+    - fungi
+    - ITS
+- id: pmid:29764946
+  tags:
+    - comparative genomics
+    - insect fungal interactions
+    - symbiosis
+- id: pmid:29764372
+  tags:
+    - population genomics
+    - black yeast
+    - extremophile
+    - halotolerance
+    - Hortaea
+- id: pmid:29739910
+  tags:
+    - Pneumocystis
+    - comparative genomics
+- id: pmid:29675967
+  tags:
+    - ITS
+    - molecular ecology
+    - soil microbiome
+- id: pmid:29674435
+  tags:
+    - Rhizopus
+    - systematics
+    - phylogenomics
+- id: pmid:29371508
+  tags:
+    - Coccidioides
+    - transposon
+- id: pmid:29321239
+  tags:
+    - Thraustochytrid
+    - comparative genomics
+- id: pmid:29211832
+  tags:
+    - AMF
+    - transcriptome
+    - phylogenomics
+    - scRNA-seq
+- id: pmid:29158416
+  tags:
+    - transposon
+    - Rice
+    - mPing
+- id: pmid:29023459
+  tags:
+    - M18 aspartyl aminopeptidases
+    - DAP
+    - molecular evolution
+- id: pmid:28917057
+  tags:
+    - review
+    - systematics
+    - fungi
+- id: pmid:28916147
+  tags:
+    - symbiosis
+    - insect bacteria interactions
+    - insect fungal interactions
+    - mole cricket
+- id: pmid:28876195
+  tags:
+    - Bifiguratus
+    - Mucoromycotina
+    - comparative genomics
+- id: pmid:28820125
+  tags:
+    - review
+    - genomics
+    - fungi
+- id: pmid:28684563
+  tags:
+    - Rachicladosporium
+    - genome
+    - Antarctica
+- id: pmid:28500048
+  tags:
+    - Hortaea
+    - black yeast
+    - genome
+    - extremophile
+    - halotolerance
+- id: pmid:28481340
+  tags:
+    - N6-methylation
+    - 6mA
+    - fungi
+- id: pmid:28462022
+  tags:
+    - Spizellomyces
+    - opsin
+    - molecular modeling
+- id: pmid:28176784
+  tags:
+    - multicellularity
+    - ascomycota
+    - Neolecta
+    - comparative genomics
+- id: pmid:28149701
+  repo: https://github.com/stajichlab/RelocaTE2
+  tags:
+    - tool
+    - transposon
+- id: pmid:30682305
+  tags:
+    - Fusarium
+    - Ambrosia Beetle
+    - PCR
+- id: pmid:27738200
+  tags:
+    - zygomycete
+    - phylogenomics
+    - systematics
+    - phylogenetics
+    - genome
+- id: pmid:27554660
+  tags:
+    - review
+    - Mucor
+    - Phycomyces
+- id: pmid:27294409
+  tags:
+    - transposon
+    - Pleurotus
+- id: pmid:27048799
+  tags:
+    - Aspergillus
+    - GAG
+    - biofilm
+- id: pmid:27034999
+  tags:
+    - social media
+    - meeting report
+    - review
+- id: pmid:26976598
+  tags:
+    - Escovopsis
+    - genome
+    - symbiosis
+    - mycoparasite
+- id: pmid:26903035
+  tags:
+    - Xylariaceae
+    - endophyte
+- id: pmid:26305593
+  tags:
+    - Neurospora
+    - cytoplasmic streaming
+- id: pmid:26109355
+  tags:
+    - small RNA
+    - transposon
+    - Neurospora
+    - MSUD
+- id: pmid:25819009
+  tags:
+    - CBM18
+    - Batrachochytrium
+- id: pmid:25805857
+  tags:
+    - Neurospora
+    - intron
+    - splicing
+- id: pmid:25750214
+  tags:
+    - Candida albicans
+    - phosphoproteome
+- id: pmid:25427217
+  tags:
+    - meeting report
+- id: pmid:25351875
+  tags:
+    - Sporothrix
+    - genome
+- id: pmid:25330340
+  tags:
+    - microRNA
+    - Fusarium
+    - tomato
+- id: pmid:25143134
+  tags:
+    - cell wall
+    - Mucoromycotina
+    - phylogenomics
+- id: pmid:24912000
+  tags:
+    - soil fungi
+    - phylogeny
+- id: pmid:24813190
+  tags:
+    - Cryptococcus
+    - annotation
+    - curation
+- id: pmid:24743168
+  tags:
+    - Cryptococcus
+    - genome
+    - RNA-seq
+    - microevolution
+- id: pmid:24299411
+  tags:
+    - Neurospora
+    - selfing
+- id: pmid:24285193
+  tags:
+    - symbiosis
+    - proteobacteria
+    - mutalism
+    - evolution
+- id: pmid:24152717
+  tags:
+    - genomic standards
+    - built environment
+    - MIxS-BE
+- id: pmid:24068976
+  tags:
+    - Pyronema
+    - genome
+- id: pmid:23961317
+  tags:
+    - meeting report
+- id: pmid:23951101
+  tags:
+    - Entomophthora muscae
+    - insect fungal interactions
+    - fly
+- id: pmid:23932404
+  tags:
+    - Cryptomycota
+    - genome
+    - Rozella
+    - phylogenomics
+- id: pmid:23928422
+  tags:
+    - review
+    - mycology
+- id: pmid:23650365
+  tags:
+    - Batrachochytrium
+    - population genomics
+- id: pmid:23576519
+  tags:
+    - transposon
+    - tool
+- id: pmid:23530226
+  tags:
+    - histone
+    - Neurospora
+    - H3K27me
+- id: pmid:23514374
+  tags:
+    - Coprinus
+    - Coprinopsis
+    - 5-SAGE
+    - transcriptome
+- id: pmid:23341551
+  tags:
+    - Malassezia
+    - genome
+- id: pmid:23186325
+  tags:
+    - Neurospora
+    - sexual reproduction
+    - EST
+- id: pmid:22718849
+  tags:
+    - CBM18
+    - Batrachochytrium
+- id: pmid:22593224
+  tags:
+    - Neurospora
+    - mating
+    - transposon
+- id: pmid:22072962
+  tags:
+    - chytrid
+    - genome
+    - Batrachochytrium
+    - Homolaphlyctis
+- id: pmid:22064857
+  tags:
+    - FungiDB
+    - tool
+    - database
+- id: pmid:21750257
+  tags:
+    - Neurospora
+    - selfing
+    - genome
+    - sex chromosome
+- id: pmid:21304167
+  tags:
+    - Cryptococcus
+    - genome
+- id: pmid:21268975
+  tags:
+    - Batrachochytrium
+    - review
+- id: pmid:20885784
+  tags:
+    - meiosis
+    - transcriptome
+    - Coprinus
+    - Coprinopsis
+- id: pmid:20836076
+  tags:
+    - GBrowse
+    - tool
+- id: pmid:20675579
+  tags:
+    - Neurospora
+    - ChIP-seq
+    - White collar complex
+    - circadian clock
+- id: pmid:20626842
+  tags:
+    - Pythium
+    - genome
+- id: pmid:20622885
+  tags:
+    - Schizophyllum
+    - genome
+- id: pmid:20601044
+  tags:
+    - Neurospora
+    - heterothallic
+    - homothallic
+- id: pmid:20547848
+  tags:
+    - Coprinopsis
+    - Coprinus
+    - genome
+    - multicellularity
+- id: pmid:20516208
+  tags:
+    - Coccidioides
+    - genome
+    - population genomics
+    - transposon
+- id: pmid:20386741
+  tags:
+    - Sordaria
+    - genome
+- id: pmid:20126439
+  tags:
+    - Batrachochytrium
+    - review
+- id: pmid:19788875
+  tags:
+    - review
+    - mycology
+- id: pmid:19717792
+  tags:
+    - Coccidioides
+    - genome
+- id: pmid:19161465
+  tags:
+    - Batrachochytrium
+    - proteomics
+    - virulence
+- id: pmid:19085333
+  tags:
+    - arthropod
+    - phylogeny
+- id: pmid:18852473
+  tags:
+    - Batrachochytrium
+    - gene expression
+- id: pmid:18322534
+  tags:
+    - Laccaria
+    - genome
+- id: pmid:18313909
+  tags:
+    - Coprinus
+    - Coprinopsis
+    - metallopeptidases
+- id: pmid:18294377
+  tags:
+    - Cryptococcus
+- id: pmid:18287711
+  tags:
+    - BioPerl
+    - tool
+- id: pmid:17949488
+  tags:
+    - intron
+    - fungi
+- id: pmid:17337636
+  tags:
+    - mating type locus
+    - Histoplasma
+    - Coccidioides
+- id: pmid:17320905
+  tags:
+    - prion
+    - fungi
+    - comparative genomics
+- id: pmid:17183716
+  tags:
+    - gene family evolution
+- id: pmid:17148473
+  tags:
+    - tool
+    - database
+- id: pmid:17121679
+  tags:
+    - fungi
+    - phylogeny
+    - phylogenomics
+- id: pmid:17080091
+  tags:
+    - Ustilago
+    - genome
+- id: pmid:17051209
+  tags:
+    - phylogeny
+    - mycology
+    - fungi
+- id: pmid:16988423
+  tags:
+    - comparative genomics
+    - Caenorhabditis
+- id: pmid:16963629
+  tags:
+    - Cryptococcus
+    - catalase
+- id: pmid:16962256
+  tags:
+    - Aspergillus fumigatus
+    - NRPS
+- id: pmid:16899494
+  tags:
+    - tool
+    - review
+- id: pmid:16682456
+  tags:
+    - intron
+    - Cryptococcus
+- id: pmid:16606443
+  tags:
+    - Saccharomyces
+    - WW domain
+- id: pmid:16222245
+  tags:
+    - Cryptococcus
+- id: pmid:16143628
+  tags:
+    - population genetics
+- id: pmid:16077014
+  tags:
+    - gene family evolution
+    - tool
+- id: pmid:15854223
+  tags:
+    - hookworm
+    - comparative genomics
+- id: pmid:15470254
+  tags:
+    - Cryptococcus
+    - gene expression
+- id: pmid:15356276
+  tags:
+    - population genetics
+    - tool
+    - ABO
+    - human genetics
+- id: pmid:14624247
+  tags:
+    - Caenorhabditis
+    - genome
+- id: pmid:12716998
+  tags:
+    - tool
+    - comparative genomics
+- id: pmid:12368254
+  tags:
+    - BioPerl
+    - tool
+- id: pmid:12368253
+  tags:
+    - tool
+    - GBrowse
+- id: pmid:11743579
+  tags:
+    - human genetics
+    - CMT
