@@ -7,26 +7,26 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-{% include figure.html image="images/Genomics.jpg" width="100%" %}
+{% include figure.html image="images/unl.plant.sciences.hall.jpg" width="100%" %}
 
-The [**Stajich lab**](https://lab.stajich.org) is part of the [Department of Microbiology and Plant Pathology](https://microplantpath.ucr.edu), [Institute for Integrative Genome Biology](https://iigb.ucr.edu), [Center for Plant Cell Biology](https://cepceb.ucr.edu) at [University of California Riverside](https://ucr.edu). We are located on the 1st floor of the Genomics building.
+The [**Fungal Ecology lab**](https://www.fungalecology.com) is part of the [Department of Plant Pathology at University of Nebraska-Lincoln](https://plantpathology.unl.edu). We are located on the 4st floor of the Plant Sciences Hall.
 
 {%
   include link.html
   type="email"
   icon=""
-  text="jason.stajich@ucr.edu"
+  text="tgarciaaroca@albany.edu"
   tooltip="Email Contact"
-  link="jason.stajich@ucr.edu"
+  link="tgarciaaroca@albany.edu"
   style="button"
 %}
 {%
   include link.html
   type="phone"
   icon=""
-  text="(951) 827-2363"
+  text="(225) 226-8022"
   tooltip=""
-  link="+1-951-827-2363"
+  link="+1-225-226-8022"
   style="button"
 %}
 {%
@@ -35,7 +35,7 @@ The [**Stajich lab**](https://lab.stajich.org) is part of the [Department of Mic
   icon=""
   text="Google Maps"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://goo.gl/maps/NuqUSJTfcby2Xrsj8"
+  link="https://goo.gl/maps/zj7QWNa9QQHPzUZS9"
   style="button"
 %}
 
@@ -45,12 +45,11 @@ The [**Stajich lab**](https://lab.stajich.org) is part of the [Department of Mic
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-Jason Stajich Laboratory <br>
-900 University Ave <br>
-1219B Genomics <br>
-Dept of Microbiology and Plant Pathology <br>
-University of California-Riverside <br>
-Riverside, CA 92521 <br>
+Fungal Ecology Laboratory <br>
+Deptarment of Plant Pathology <br>
+University of Nebraska-Lincoln <br>
+1875 N 38th St <br>
+Lincoln, NE 68503 <br>
 USA
 
 {:.center}
@@ -58,15 +57,15 @@ USA
 {% capture col1 %}
 {%
   include figure.html
-  image="images/UCR1.jpg"
+  image="images/UNL.logo.jpg"
   caption="University of California, Riverside"
 %}
 {% endcapture %}
 {% capture col2 %}
 {%
   include figure.html
-  image="images/Stajichlab.png"
-  caption="Stajich Lab"
+  image="images/lab.logo.png"
+  caption="Fungal Ecology Lab"
 %}
 {% endcapture %}
 {% include two-col.html col1=col1 col2=col2 %}
